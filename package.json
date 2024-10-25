@@ -35,7 +35,7 @@
     "lodash": "^4.17.11",
     "nprogress": "^0.2.0",
     "storage-controller": "^1.0.4",
-    "vue": "^2.5.17",
+    "vue": "^3.0.0",
     "vue-meta": "^1.5.6",
     "vue-router": "^3.0.1",
     "vue-slicksort": "^1.1.3",
